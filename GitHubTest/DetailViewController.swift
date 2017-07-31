@@ -27,7 +27,7 @@ class DetailViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         configureView()
         
-        view.backgroundColor = UIColor.black
+        view.backgroundColor = UIColor.yellow
     }
 
     override func didReceiveMemoryWarning() {
