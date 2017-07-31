@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  GitHubTest
-//
-//  Created by Ralf Matz on 31.07.17.
-//  Copyright © 2017 Ralf Matz. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
